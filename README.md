@@ -19,7 +19,7 @@ Program akan menampilkan identitas mahasiswa, pesan motivasi, dan ASCII art di t
 
 Clone repository ini, lalu jalankan:
 
-git clone https://github.com/username/Week4-node-plugin.git
+git clone [https://github.com/username/Week4-node-plugin.git](https://github.com/Pabloz666999/Week4-node-plugin.git)
 cd Week4-node-plugin
 npm install
 
